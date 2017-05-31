@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/braini75/redmine_workload.svg?branch=master)]
+
 ### Workload-Plugin for Redmine
 
 A complete rewrite of the original workload-plugin from Rafael Calleja. The
@@ -11,9 +13,10 @@ these issues will be ignored.
 
 #### Installation
 
+
 To install it, simply clone it into the plugins-directory. Execute
 
-    git clone https://github.com/JostBaron/redmine_workload.git redmine_workload
+    git clone https://github.com/braini75/redmine_workload.git
 
 in your plugins directory. Then restart your redmine. There is no need for
 database migration, as this plugin does not change anything in the database.
